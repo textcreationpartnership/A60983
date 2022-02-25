@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd Novemb. 14, 1698 and now publish'd at the request of the societies for the reformation of manners, in the cities of London and Westminster / by John Spademan ...</title>
+            <author>Spademan, John, d. 1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60983</idno>
+            <idno type="STC">Wing S4784</idno>
+            <idno type="STC">ESTC R32648</idno>
+            <idno type="EEBO-CITATION">12739979</idno>
+            <idno type="OCLC">ocm 12739979</idno>
+            <idno type="VID">93106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93106)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd Novemb. 14, 1698 and now publish'd at the request of the societies for the reformation of manners, in the cities of London and Westminster / by John Spademan ...</title>
+                  <author>Spademan, John, d. 1708.</author>
+               </titleStmt>
+               <extent>[3], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIX [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon for reformation of manners.</note>
+                  <note>Reproduction of original in the Harvard University Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXVIII, 4 --  Sermons --  Early works to 1800.</term>
+               <term>Christian life --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93106:1"/>
+            <pb facs="tcp:93106:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd <hi>Novemb.</hi> 14. 1698. AND NOW Publiſh'd at the Requeſt OF THE SOCIETIES FOR <hi>Reformation of</hi> Manners, IN THE Cities of <hi>London</hi> and <hi>Weſtminſter,</hi>
+            </p>
+            <p>By <hi>JOHN SPADEMAN.</hi> M. A.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide.</hi> MDCXCIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93106:2"/>
+            <pb n="1" facs="tcp:93106:2"/>
+            <head>A SERMON Preach'd before the SOCIETIES FOR <hi>Reformation of</hi> Manners.</head>
+            <epigraph>
+               <bibl>
+                  <hi>PROVERBS XXVIII. 4.</hi>
+               </bibl>
+               <q>They that forſake the Law, praiſe the Wicked: But ſuch as keep the Law, contend with them.</q>
+            </epigraph>
+            <p>THOUGH it be found im<g ref="char:EOLhyphen"/>poſſible, by any Human Me<g ref="char:EOLhyphen"/>thods, to Baniſh, and Expel <hi>Sin</hi> out of the World: This <hi>Enemy</hi> is
+<pb n="2" facs="tcp:93106:3"/>ſo entrench'd and fortify'd, that no cre<g ref="char:EOLhyphen"/>ated Power or Skill is able totally to Vanquiſh, and Drive him out, either from particular Perſons, or Communi<g ref="char:EOLhyphen"/>ties of Men: The ſame Concluſion ought not to be made concerning <hi>open Wickedneſs,</hi> and the viſible Practice of Sin, there is a poſſibility of Subduing this Monſter: As 'tis found poſſible to ridd a Country of ſome <hi>Species</hi> of Ra<g ref="char:EOLhyphen"/>pacious Beaſts, tho' 'tis impractable to deſtroy all the <hi>Vermin,</hi> which lie un<g ref="char:EOLhyphen"/>der Ground, and are hid in Holes, and Dens of the Earth. That Sin which is conceal'd in the Heart, or is acted in ſecret, lyeth out of the reach of Human Attempts, a Divine Almighty Arm alone is able to cruſh, and deſtroy it: But when this Peſtilence waſteth at Noon-day, and appears in the places of Concourſe, this Caſe admits a Remedy, and there are proper <hi>Methods</hi> which, under the <hi>Divine Benediction,</hi> are able to ſtop the <hi>Plague of Wickedneſs.</hi> The God of the whole Earth has not aban<g ref="char:EOLhyphen"/>don'd it to be waſted by this <hi>Infection,</hi> without Means of reſiſting, and remo<g ref="char:EOLhyphen"/>ving it. 'Tis reaſonable to conclude,
+<pb n="3" facs="tcp:93106:3"/>That <hi>He</hi> hath formed Men into <hi>Civil Societies,</hi> on this Deſign, that <hi>Order,</hi> and <hi>Government, Laws,</hi> and <hi>Puniſhments</hi> might be apply'd to the reſtraining of <hi>Sin</hi> and <hi>Immorality.</hi> For the beſt or<g ref="char:EOLhyphen"/>der'd <hi>Societies</hi> could not be either plea<g ref="char:EOLhyphen"/>ſing to God, (as the Wiſeſt Pagans judged they were) or,<note place="margin">Cicero Somn. Scip.</note>in the iſſue, advantage<g ref="char:EOLhyphen"/>ous to Men, if they did only relieve the <hi>Neceſſities,</hi> and miniſter to the Safe<g ref="char:EOLhyphen"/>ty, and <hi>Pleaſure</hi> of <hi>Life,</hi> and did not ſerve the higher Deſign of repreſſing <hi>Vices,</hi> and purging the <hi>Impuritie</hi> that defiles the World, and threatens Ruine to whole Nations.</p>
+            <p>We of this <hi>Nation</hi> have long experi<g ref="char:EOLhyphen"/>enc'd the vigilant Care, and continued Kindneſs of <hi>Heaven,</hi> which have de<g ref="char:EOLhyphen"/>feated the pernicious Deſigns of our E<g ref="char:EOLhyphen"/>nemies, deliver'd us from many threat<g ref="char:EOLhyphen"/>ning Dangers, and Crown'd us with diſtinguiſhing Mercies. How inexcu<g ref="char:EOLhyphen"/>ſable ſhall we be, if we abuſe and forfeit the Kindneſs of God, and by doing Wickedly, provoke him to <hi>Turn, and Deſtroy us after he hath done us Good?</hi> (Joſh. 24.20.) And nothing can pre<g ref="char:EOLhyphen"/>vent
+<pb n="4" facs="tcp:93106:4"/>ſo diſmal an Iſſue of Things, but a vigorous Endeavour to check the Con<g ref="char:EOLhyphen"/>tagion of <hi>Vice,</hi> by a conſtant Proſecuting of the truly <hi>Chriſtian Deſign</hi> already enter'd upon, of Reforming the Lives of Men, and repreſſing the Vices, which too long have reproach'd this Nation: Unto which Deſign, the inſtructive Words of <hi>Solomon,</hi> that have been read, give an encouraging Aſſiſtance: For they both direct to the proper Method, that is to be uſed, and enforce that Directi<g ref="char:EOLhyphen"/>on by cogent Motives, drawn from the infamous Character of thoſe who praiſe the Wicked and the Honouring Title of thoſe who contend with (or againſt) them. <hi>They that forſake the Law, praiſe the Wicked: But ſuch as keep the Law, contend with them.</hi>
+            </p>
+            <p>The latter part of this <hi>Aphoriſm</hi> is more directly ſutable to the occaſion of this Day: but the former part, contains an Inſtruction, that is not improper to be ſeriouſly reflected on, at this time, in which I ſhall en<g ref="char:EOLhyphen"/>deavour to aſſiſt you, by
+<list>
+                  <item>I. Deſcribing the Agents ſpoken of: <hi>They that forſake the Law.</hi>
+                  </item>
+                  <pb n="5" facs="tcp:93106:4"/>
+                  <item>II. Explaining the Action aſcribed to them: <hi>Praiſe the Wicked.</hi>
+                  </item>
+                  <item>III. Repreſenting the horrid Cha<g ref="char:EOLhyphen"/>racter of both. As to the</item>
+               </list>
+            </p>
+            <p n="1">I. The Agents are ſaid to <hi>forſake the Law.</hi> I take it for granted, that the Divine Law is here to be under<g ref="char:EOLhyphen"/>ſtood, (as in two other Verſes of this Chapter, 7, and 9. the Law, with<g ref="char:EOLhyphen"/>out any addition, is ſo interpreted.) For it is not univerſally a Crime to forſake a mere Human Law, which may be ſo framed, that we are obli<g ref="char:EOLhyphen"/>ged to forſake and contradict it. But the Divine Law has ſuch eternal, and invariable <hi>Equity,</hi> and carries ſo un<g ref="char:EOLhyphen"/>changable Obligation, that nothing can juſtify the forſaking of it. 'Tis the heavieſt charge, that can be drawn up againſt any Perſons, that they have forſaken the Law of God, and the moſt diſmal Puniſhments are threat<g ref="char:EOLhyphen"/>ned to ſuch, <hi>Jerem.</hi> 9.13, 15, 16. <hi>And the Lord ſaith, Becauſe they have forſaken my Law which I ſet before them; — Therefore thus ſaith the Lord of Hoſts, the God of Iſrael, Behold I will feed them, even this People with Worm<g ref="char:EOLhyphen"/>wood,
+<pb n="6" facs="tcp:93106:5"/>and give them Water of Gall to drink — And I will ſend a Sword after them, till I have conſumed them.</hi> The forſaking of the Divine Law is not a light trivial matter in the eyes of God, as it is too commonly in thoſe of Men. But this forſaking of the Law, is not the mere tranſgreſſing of it, by particu<g ref="char:EOLhyphen"/>lar Omiſſion of Duty, and Commiſſion of Sin; for both theſe are conſiſtent with the Favour of God, and may comport, with the keeping of the Law, in the Evangelick Senſe. Forſaking of the Law, in Scripture Style, imports ſuch a deſerting, or revolting from it, as renders it uſeleſs, and ineffectual for the ordering of our Actions: The Di<g ref="char:EOLhyphen"/>vine <hi>Rule</hi> is renounced, and its <hi>Yoke</hi> caſt off, by chooſing and obeying another, and contrary Law, even that of Sin. And though theſe Lawleſs Ones are un<g ref="char:EOLhyphen"/>willing to acknowledge their true Cha<g ref="char:EOLhyphen"/>racter, and ready to profeſs a reſpect to the Law of God, yet we ſhall certainly know 'em by their Fruits, and particu<g ref="char:EOLhyphen"/>larly, by their <hi>praiſing of the Wicked,</hi> which is</p>
+            <p n="2">
+               <pb n="7" facs="tcp:93106:5"/>II. The Action aſcribed to them who forſake the Law: to underſtand which, we muſt not reſtrain the term <hi>Praiſe</hi> to the narrow Senſe, that in common diſ<g ref="char:EOLhyphen"/>courſe we fix on it, as if it denoted only a Verbal Commendation, though this Senſe is not excluded. The Practiſe has been, and ſtill is, too common of abſolving and juſtifying of bad Men, (when 'tis ſaid to a Wicked Man, <hi>Thou art righteous,</hi> cap. 24.24.) and of adorning with flat<g ref="char:EOLhyphen"/>tering <hi>Encomiums,</hi>
+               <note place="margin">The 70 Int. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> thoſe who deſerve general abhorrence. How often have thoſe Noble Things, <hi>Wit</hi> and <hi>Eloquence,</hi> been baſely employ'd in extolling the worſt Perſons and Things. The Auditors of a perſecuting <hi>Herod</hi> ap<g ref="char:EOLhyphen"/>plauded his Oration, by this impious Acclamation, <hi>It is the voice of a God, and not of a Man,</hi> Acts 12.22. Which Blaſphemous Adulation was terribly confuted by the Divine Vengeance which condemned that Mortal God to be eaten by Worms, while he liv'd, and by that opprobrious Diſeaſe to end his Life. Such another piece of ridiculous Blaſphemy, an <hi>Atheiſtick Poet</hi> was guilty
+<pb n="8" facs="tcp:93106:6"/>of, in praiſing his Maſter <hi>E<g ref="char:EOLhyphen"/>picurus,</hi>
+               <note place="margin">Lucretius, <hi>Lib. 5.</hi>
+               </note>whom he makes a God, becauſe he had boldly deny'd a <hi>Providence,</hi> and a future State; as if by this rare Diſcoverie, <hi>He</hi> had been a more worthy <hi>Benefa<g ref="char:EOLhyphen"/>ctor</hi> to Mankind, than thoſe, whoſe Inventions had miniſtred to the <hi>Ad<g ref="char:EOLhyphen"/>vantage</hi> and <hi>Pleaſure</hi> of <hi>Life.</hi>
+            </p>
+            <p>But beſides Praiſing by Words and Language, there is another, by actions which conciliate eſteem, and honour to a Perſon. As when 'tis ſaid of the Vertuous Woman, that <hi>her own Works praiſe her in the gates,</hi> Prov. 31.31. <hi>i. e.</hi> Do create eſteem and reſpect to her. The Wicked are thus <hi>praiſed,</hi> when they are encourag'd and favour'd by thoſe who have Authority, and occaſion to diſcourage and de<g ref="char:EOLhyphen"/>preſs them: When Honours are plac'd upon them, who declare themſelves to be <hi>Enemies of Righteouſneſs.</hi> This hath been too commonly practis'd in all Ages: In the times of <hi>Pagan Ig<g ref="char:EOLhyphen"/>norance,</hi> ſome vile and brutiſh Miſ<g ref="char:EOLhyphen"/>creants have been Deify'd, and Wor<g ref="char:EOLhyphen"/>ſhip'd after their Death, and Divine
+<pb n="9" facs="tcp:93106:6"/>Honour pay'd to thoſe who deſerv'd the moſt general abhorrence; (as the inſtances of the <hi>Cretan Jupiter,</hi> and ſe<g ref="char:EOLhyphen"/>veral others, evince.) The <hi>Light</hi> of the <hi>Goſpel</hi> hath baniſht this impious uſage from the Places which enjoy it; but even among <hi>Profeſſing Chriſtians,</hi> 'tis become too common a Spectacle, that the vileſt of Men are favour'd, and advanc'd, and find ſeveral who patro<g ref="char:EOLhyphen"/>nize, and protect them: which pra<g ref="char:EOLhyphen"/>ctice prov'd fatal to the <hi>Benjamite Tribe,</hi> from which the other Tribes, in a ſolemn manner, demanded the delivering up of ſome <hi>Children of Be<g ref="char:EOLhyphen"/>lial,</hi> (Judg. 20 13.) <hi>that they might be put to death, and by this means, evil might be put away from Iſrael: But</hi> ('tis added) <hi>the Children of Ben<g ref="char:EOLhyphen"/>jamin would not hearken to the voice of their Brethren.</hi> The diſmal con<g ref="char:EOLhyphen"/>ſequent of this favouring of Evil<g ref="char:EOLhyphen"/>doers, is largely related in the Sacred Hiſtory, to deter all others from this praiſing or patronizing of Wicked Men. To which purpoſe it will be uſeful.</p>
+            <p n="3">
+               <pb n="10" facs="tcp:93106:7"/>III. To repreſent the horrid Cha<g ref="char:EOLhyphen"/>racter, both of the Agents here men<g ref="char:EOLhyphen"/>tioned, and the Act aſcribed to them: The former is evident at firſt view: He that forſakes the Divine Law bears the blackeſt marks of Horror. For
+<list>
+                  <item>1. He is guilty of the worſt <hi>Treaſon</hi> and <hi>Rebellion:</hi> He revolts from his rightful <hi>Ruler,</hi> he lifts up his hand againſt his <hi>Father,</hi> and makes War againſt the higheſt, and beſt <hi>Sovereign.</hi> Who would not dread ſo infamous a Character? Who would be patient of ſo reproachful a Name? A meer tranſgreſſing of the Law, is not re<g ref="char:EOLhyphen"/>belling againſt Heaven, but the for<g ref="char:EOLhyphen"/>ſaking of it, can have no milder name; ſuch who deſert and renounce the Law, do in effect ſay to the Al<g ref="char:EOLhyphen"/>mighty, <hi>He ſhall not reign over us; we owe no ſubjection, or obedience, to the God that made us.</hi> A Language that is ſo intolerable, that even un<g ref="char:EOLhyphen"/>godly Men are aſhamed to utter it with their Lips.</item>
+                  <pb n="11" facs="tcp:93106:7"/>
+                  <item>2. There is the <hi>baſeſt perfidiouſneſs</hi> in the forſaking of the Divine Law by thoſe who profeſs Religion: For ſuch, at the ſame time, forſake the <hi>Co<g ref="char:EOLhyphen"/>venant of God,</hi> and virtually renounce their very Baptiſm. There can't be a more infamous Character than that of a <hi>Perfidious Wretch:</hi> This expoſeth an <hi>Adultreſs</hi> to the heavieſt reproach, that when <hi>ſhe forſaketh the guide of her Youth,</hi> ſhe alſo <hi>forgets the Covenant of her God, Prov.</hi> 2.17. All who are de<g ref="char:EOLhyphen"/>dicated to the bleſſed God, by Baptiſm, become Children of the Covenant, (<hi>Acts</hi> 3.25.) which ſtrongly obliges them to keep the Divine Law.</item>
+                  <item>3. There is in thoſe who forſake the Law, the worſt <hi>Cruelty</hi> to themſelves, who thereby caſt themſelves into the forlorn State of <hi>Out-Laws,</hi> they deprive themſelves of the Divine Protection, and no condition can be ſo deplorable. All the <hi>Defences</hi> which <hi>Power</hi> and <hi>Wealth,</hi> which <hi>Wiſdom</hi> and <hi>Alliances</hi> can raiſe up, will prove refuges of lyes, when the <hi>Divine Shadow</hi> and <hi>Protection</hi> are withdrawn, <hi>Num.</hi> 14.9. The potent warlike Nations of <hi>Canaan</hi> be<g ref="char:EOLhyphen"/>came
+<pb n="12" facs="tcp:93106:8"/>Bread, <hi>i. e.</hi> eaſily devoured, when their defence was departed from them. No tidings can be ſo ſad, as the Reply which God made to the <hi>Iſraelites, Ye have forſaken me — Wherefore I will deliver you no more,</hi> Jud. 10.13. Oh! whether ſhall we reſort for Succour and Safety, when the Rock of <hi>Iſrael</hi> doth ſell and abandon us?</item>
+               </list>
+            </p>
+            <p>As to the Act, <hi>praiſing of the Wicked,</hi> nothing can be more reproachful, be<g ref="char:EOLhyphen"/>cauſe it carrieth in it,
+<list>
+                  <item>1. The moſt ſtupid <hi>Folly</hi> and <hi>Igno<g ref="char:EOLhyphen"/>rance:</hi> For there is not a more hideous deformed Monſter in the World than a Wicked Perſon, he has no Comlineſs or Beauty, but is a moſt miſhapen, di<g ref="char:EOLhyphen"/>ſtorted Thing, deſtitute of the Divine, Beautifying Image, and a very picture of the Devil, whoſe Child he is. What inexcuſable folly muſt it be to praiſe and commend ſuch an one, yea, or to cheriſh the <hi>Vipers,</hi> whoſe poiſon infects the places where they breath. And</item>
+                  <item>2. There is notorious <hi>injuſtice</hi> in the praiſing and favouring of Wicked Men: Praiſe, and Encouragement can't be due to ſuch, theſe are the juſt Recompences
+<pb n="13" facs="tcp:93106:8"/>of <hi>Religion</hi> and <hi>Goodneſs;</hi> whereas <hi>Shame</hi> is the Promotion that belongs to Fools or Wicked Men, as it is affirmed, <hi>Prov.</hi> 3.35. If we will act juſtly, we ought to deſpiſe a vile Perſon, for no Praiſe or Honour are due to him. The Wiſdom of moſt Lawgivers hath directed to appoint ſuch <hi>Puniſhments</hi> of Evil Doers, as carry <hi>Shame</hi> and <hi>Reproach</hi> as well as Pain and Loſs, by which they are more adapted to attain the end of Puniſhment, which is the maintaining of Moral Order in the World. And it is moſt equitable, that they who are the blemiſh of Human Race, and of the Society they belong to, ſhould bear their Shame; according to the Sentence pronounced on <hi>Judah,</hi> Ezek. 16.52. <hi>Bear thine own ſhame, for thy Sins, which thou haſt committed — Yea, be thou con<g ref="char:EOLhyphen"/>founded alſo, and bear thy ſhame.</hi> We might hope to ſee happy days, if <hi>ſin</hi> were conſtantly attended with <hi>reproach,</hi> and not find Praiſe, and Eſteem, as it has too often done. There is little hope of vanquiſhing this Monſter, while it is nouriſhed with ſo ſtrengthning Food as Reputation and Honour: If once this
+<pb n="14" facs="tcp:93106:9"/>Proviſion could be cut off, Vice and Impiety would loſe the Day, and <hi>Refor<g ref="char:EOLhyphen"/>mation of Manners</hi> have deſired Succeſs; provided we comply with the Method laid down in the latter part of the Text: <hi>But they that keep the Law con<g ref="char:EOLhyphen"/>tend with them,</hi> or, againſt Wicked Men.</item>
+               </list>
+            </p>
+            <p>In ſpeaking to this, 'tis not neceſſary to inſiſt on the Character given to the Agents, <hi>They that keep the Law,</hi> (which is directly oppoſite to the Forſaking of the Law) which imports an inward ſutable eſteem of the Divine Law, which is choſen as a Treaſure, and guarded in the heart, againſt every thing that oppo<g ref="char:EOLhyphen"/>ſeth it, and alſo an habitual Obſervation of it, ſo that it becomes the Meaſure and Rule of the Converſation, which is conducted not by the Will and Luſts of Men, but by the Will of God. This is one conſtant effect of the Grace of God, which works Repentance unto Salvation, to write the Divine Law in the Heart, and give it the chief Domi<g ref="char:EOLhyphen"/>nion over the whole Man, ſo that the whole Courſe of his Life is guided by the Holy Commandment of God.</p>
+            <pb n="15" facs="tcp:93106:9"/>
+            <p>Concerning theſe, it is ſaid, <hi>They contend with the Wicked,</hi> which Action I ſhall endeavour both to deſcribe, and recommend: In deſcribing this impor<g ref="char:EOLhyphen"/>tant Action, we are obliged to enquire into theſe things which it ſuppoſeth, as well as to ſet down the poſitive inſtan<g ref="char:EOLhyphen"/>ces of it.</p>
+            <p>The contending with, or againſt Wicked Men, ſuppoſeth an acting on our ſelves; the Original Word being ſo expreſſed, as to denote a reflex Ope<g ref="char:EOLhyphen"/>ration. And ſome, who have narrowly conſidered the force of the He<g ref="char:EOLhyphen"/>brew Verb, have rendered it,<note place="margin">Coccei Lexic.</note>
+               <hi>ſtir up themſelves.</hi> 'Tis evi<g ref="char:EOLhyphen"/>dent, none can contend with another, who doth not firſt ſtir himſelf; <hi>Sampſons</hi> great Strength could not be ſerviceable to him, when the <hi>Philiſtines</hi> were upon him, until he was awak'd, and did quit his unactive poſture. If our Souls are aſleep, and ſtupid, void of active Principles, whieh are to be exerted, 'tis impoſſible we ſhould rightly contend with Wicked Men, which abſolutely requires the acting of the following Diſpoſitions.</p>
+            <pb n="16" facs="tcp:93106:10"/>
+            <p>
+               <hi>Sorrow for the ſins of others.</hi> He that can view the Impieties, or Immorali<g ref="char:EOLhyphen"/>ties, of others, with delight, and take pleaſure in thoſe who violate the Divine Laws, will not ſincerely contend with Wicked Men. But a hearty diſpleaſure againſt Sin, engageth unto this conten<g ref="char:EOLhyphen"/>ding. This Principle moved righteous <hi>Lot</hi> to reprove and contradict the Wic<g ref="char:EOLhyphen"/>ked <hi>Sodomites,</hi> whoſe unlawful deeds did ſo affect him, that in ſeeing and hearing of them, <hi>He vext his righteous ſoul from day to day,</hi> 2 Pet. 2.8. The Apoſtle <hi>Paul,</hi> though he ſtood ſingle and alone, contended with the Idola<g ref="char:EOLhyphen"/>trous <hi>Athenians,</hi> becauſe his Spirit was ſtirr'd in him when he ſaw the City wholly given to Idolatry, <hi>Acts</hi> 17.16. That Spectacle, which others beheld with patience and pleaſure, wrought a <hi>Paroxyſm</hi> of Sorrow in his Holy Soul. The Jews thought themſelves as much oblig'd to rent their Garments when they heard Blaſpheming Language, as when the moſt ſorrowful Tidings were brought to them. There is no Law which binds us to tear our Cloaths, at the hearing of impious Words, or ſight
+<pb n="17" facs="tcp:93106:10"/>of wicked deeds; but we are ob<g ref="char:EOLhyphen"/>lig'd to rent our Hearts, with Re<g ref="char:EOLhyphen"/>ligious Sorrow and Diſpleaſure.</p>
+            <p>
+               <hi>Zeal for the Honour of God, and Intereſt of Religion,</hi> is neceſſary for the due performing of this Acti<g ref="char:EOLhyphen"/>on. One who is unconcern'd about theſe things, will not contend earneſtly againſt wicked Men. The <hi>Epheſian</hi> Chriſtians have got im<g ref="char:EOLhyphen"/>mortal Renown, by the Character given 'em by the Redeemer, in the Epiſtle addreſt to that Church. <hi>Revelat.</hi> 2.2. <hi>I know thy Works, and how thou canst not bear them that are Evil.</hi> This Chriſtian Zeal much contributed to make a <hi>golden</hi> happy <hi>Age</hi> to the Primitive Church, and would again reſtore <hi>it,</hi> might it pleaſe the bleſſed God to ſend down this Heavenly Fire: But when many profeſſing Chriſtians are lukewarm, and unconcern'd for the cauſe of our Common Religi<g ref="char:EOLhyphen"/>on,
+<pb n="18" facs="tcp:93106:11"/>this obſtructs the contending againſt Vice, and thoſe who open<g ref="char:EOLhyphen"/>ly affront the Laws of God. <hi>Phi<g ref="char:EOLhyphen"/>neas</hi> is celebrated, for his Execu<g ref="char:EOLhyphen"/>ting Judgment on ſome great De<g ref="char:EOLhyphen"/>linquents, againſt whom he con<g ref="char:EOLhyphen"/>tended, becauſe he was acted by holy Zeal for the Name of God, <hi>Num.</hi> 25.11.</p>
+            <p>
+               <hi>Fortitude in the Cauſe of God, and Religion,</hi> is another Principle of this Action. A Spirit of Fear and Cowardice, doth wholly un<g ref="char:EOLhyphen"/>fit for this Service: When the Pro<g ref="char:EOLhyphen"/>phet <hi>Ezekiel</hi> was ſent to the Re<g ref="char:EOLhyphen"/>bellious Houſe of <hi>Iſrael,</hi> with a Commiſſion to contend with that degenerate People, this was the firſt of his Inſtructions. Thou Son of Man, be not afraid of them, neither be afraid of their Words, tho Briars and Thorns be with thee, and thou doſt dwell among Scorpions, <hi>&amp;c. Ezek.</hi> 2.6.</p>
+            <pb n="19" facs="tcp:93106:11"/>
+            <p>
+               <hi>Confidence in the Divine Aſſi<g ref="char:EOLhyphen"/>ſtance:</hi> If we make fleſh our Arm, and rely on created ſtrength, we ſhall quickly be diſcouraged, and our hands will be weakned, when we experience the difficulty of this Undertaking: None can in a right manner contend againſt wicked Men, who makes not the Almighty God his ſupport, and confidence: In the laſt place.</p>
+            <p>
+               <hi>Charity towards the Perſons of Wicked Men,</hi> is a neceſſary diſpo<g ref="char:EOLhyphen"/>ſition in this contending with them. For it is not an <hi>hoſtile Act,</hi> proceeding from malevolence and hatred to them, but an In<g ref="char:EOLhyphen"/>ſtance of the moſt real kindneſs, and deſign'd to deliver them from the worſt miſery: This Combat is manag'd againſt Sin, which is the ſnare of Death, and Gate to Eter<g ref="char:EOLhyphen"/>nal Perdition. None ever ſo
+<pb n="20" facs="tcp:93106:12"/>earneſtly contended with ungod<g ref="char:EOLhyphen"/>ly Men, as our Lord Jeſus Chriſt, who was always acted by the moſt unfeigned, ardent Love to Sinners, whoſe higheſt Happineſs was conſtantly deſigned by him.</p>
+            <p>We come now to lay down the <hi>Inſtances,</hi> of this <hi>contending</hi> with Wicked Men: And 'tis obvious to any conſidering mind; That ac<g ref="char:EOLhyphen"/>cording to the various capacities of Perſons, there are various cor<g ref="char:EOLhyphen"/>reſponding <hi>Inſtances</hi> of this impor<g ref="char:EOLhyphen"/>tant Duty.</p>
+            <list>
+               <item>I. The exerciſe of Legiſlative Authority, in making Laws to prohibit all open Wickedneſs. The Magiſtrates <hi>Sword</hi> muſt be brought forth, and placed in view; that ſuch, who fear not the Diſ<g ref="char:EOLhyphen"/>pleaſure of God, or the Reproach<g ref="char:EOLhyphen"/>es of Conſcience, and of good Men, may be check'd and awed by a menacing Law; which is the proper Inſtrument of repreſſing E<g ref="char:EOLhyphen"/>vil
+<pb n="21" facs="tcp:93106:12"/>Doers. A Ruler doth not anſwer his high Character, if he is not <hi>a Terror to Evil Works:</hi> as the Apoſtle ſpeaks, <hi>Rom.</hi> 13.3. This has been underſtood, even by thoſe who have wanted the knowledge of the true God. There never was a civiliz'd People deſtitute of Laws, to prohibit that which is openly wicked: We read how a Heathen <hi>Nebu<g ref="char:EOLhyphen"/>chadnazer,</hi> Publiſh'd his Royal E<g ref="char:EOLhyphen"/>dict, arm'd with ſevere Penalties, a-againſt thoſe who ſhould ſpeak any thing amiſs againſt the true God, <hi>Dan.</hi> 3.29. Bleſſed be God, who has influenc'd our Law-givers to enact various Laws, to guard the Honour of the Name, and Truth, and Day of God. I know not a Nation in the World, which has ſo abundant pro<g ref="char:EOLhyphen"/>viſion of Excellent Laws againſt Sin and Impiety, as our own: But if the Law ſhould ſleep, it loſes all its force, can't reach its end, and the worſt
+<pb n="22" facs="tcp:93106:13"/>Crimes will prove inſolent: therefore</item>
+               <item>II. The actual puniſhing of ſuch who are found guilty, is included in the contending with wicked Men. If the Law be not arm'd with a Penalty, 'tis an Idol, which has Hands, but handles not; and theſe Hands are alto<g ref="char:EOLhyphen"/>gether uſeleſs, if they ſtrike not thoſe who affront and diſobey Righteous Laws. To indulge and ſpare ſuch Offenders, is Cruelty to them, as well as to the Pub<g ref="char:EOLhyphen"/>lick: When thoſe who have been intruſted with Power to Execute Laws, have neglected this part of their Duty, the conſequent has been very diſmal: This Neglect awakens Divine Juſtice, which on ſuch occaſion, hath uſed very ſe<g ref="char:EOLhyphen"/>vere Methods, both towards them who have merited the Penaltie, and thoſe who have not inflicted it. The Examples of <hi>Eli</hi> and <hi>David</hi> are well known, in whom,
+<pb n="23" facs="tcp:93106:13"/>when Parental Affection ſo far prevail'd, that they neglected to puniſh their Children, the Su<g ref="char:EOLhyphen"/>preme Judge, did on that occa<g ref="char:EOLhyphen"/>ſion uſe his own Sword, and ſtrike both Parents and Children. In the Hiſtory of the former, there is a very inſtructive Paſſage, 1 <hi>Sam.</hi> 3.13. <hi>I have told him</hi> (God ſpeaks of <hi>Eli</hi>) <hi>that I will Judge his Houſe for ever, for the Iniquity which he knoweth, be<g ref="char:EOLhyphen"/>cauſe his Sons made themſelves vile, and he reſtrained them not. Eli</hi>'s Office as a Magiſtrate, ob<g ref="char:EOLhyphen"/>lig'd him to puniſh his own Sons, and nothing could excuſe his ne<g ref="char:EOLhyphen"/>glect, or prevent the terrible pro<g ref="char:EOLhyphen"/>ceedings of Divine Severity. If there be ground (which I deter<g ref="char:EOLhyphen"/>mine not) for the conjecture of our Tranſlators, who in the Mar<g ref="char:EOLhyphen"/>gin have alter'd the word <hi>reſtrain,</hi> into <hi>frown;</hi> it intimates, that the frown of a Magiſtrate, an indi<g ref="char:EOLhyphen"/>cation
+<pb n="24" facs="tcp:93106:14"/>of his diſpleaſure againſt Vice, belongs to his Office, and has an aptitude to repreſs that which is Evil.</item>
+               <item>III. Inſtance of this contend<g ref="char:EOLhyphen"/>ing with wicked Men, is ſolemn pleading and proteſting againſt Wickedneſs, by thoſe whoſe Of<g ref="char:EOLhyphen"/>fice requires it. A Magiſtrate hath many occaſions of bearing a pub<g ref="char:EOLhyphen"/>lick Teſtimony againſt Sin, and Evil Courſes. As we read, <hi>Ne<g ref="char:EOLhyphen"/>hemiah</hi> (the Governour of the Jewiſh State) judg'd it his duty to teſtify againſt the prophana<g ref="char:EOLhyphen"/>tion of the Sabbath, and contend<g ref="char:EOLhyphen"/>ed with the Nobles of <hi>Judah,</hi> whoſe bad Examples might have corrupted others, <hi>Nehem.</hi> 13.17. Such a Remonſtrance, made by one cloath'd with Authority, is very Serviceable to repreſs Sin, which often deſpiſes the beſt Rea<g ref="char:EOLhyphen"/>ſons that are urged by thoſe of a
+<pb n="25" facs="tcp:93106:14"/>private Condition. 'Tis the un<g ref="char:EOLhyphen"/>queſtionable Duty of all Miniſters to plead the Cauſe of Religion, againſt every thing that oppoſeth it, with an unwearied Conſtan<g ref="char:EOLhyphen"/>cy; herein they are to imitate their great Maſter, who did not ſilently behold the Vices of the Age, and People to whom he was ſent, but on all proper oc<g ref="char:EOLhyphen"/>caſions teſtified of the World, that its Works were Evil, as himſelf hath declared <hi>Joh.</hi> 7.7. A</item>
+               <item>IV. Inſtance of this contending with Wicked Men, is particular reproving of Sin, when a juſt oc<g ref="char:EOLhyphen"/>caſion is offer'd. This Office of Charity is enjoin'd by the Great Law, which requires every one to love his Neighbour as him<g ref="char:EOLhyphen"/>ſelf. This Subject has been fre<g ref="char:EOLhyphen"/>quently diſcourſt, and the Duty of fraternal reproving been preſt, tho' ('tis to be fear'd) without deſired
+<pb n="26" facs="tcp:93106:15"/>ſucceſs. Indeed 'tis found very difficut to overcome the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or culpable Modeſty, which gene<g ref="char:EOLhyphen"/>rally obſtructs the performance of this excellent Duty. But there is another kind of <hi>reproving,</hi> which hath more facility, and would produce good effect, <hi>viz.</hi> The with-holding of familiar Converſe from vicious Perſons, which is expreſly enjoyned by the Apoſtle, 1 <hi>Cor.</hi> 5.11. <hi>I have written</hi> to you not to keep Company, if any Man, that is called a Brother, be a For<g ref="char:EOLhyphen"/>nicator, or Covetous, —or a Drunkard—with ſuch a one, no not to eat. I queſtion not, but the practiſing of this one Rule, did very much contribute to the purity of the Chriſtian Church, in her Virgin Age, when the He<g ref="char:EOLhyphen"/>roick Piety of Chriſtians, did adorn their Doctrine, and more ſucceſ<g ref="char:EOLhyphen"/>cesfully vindicate the Chriſtian Re<g ref="char:EOLhyphen"/>ligion, than the moſt Learned A<g ref="char:EOLhyphen"/>pologies
+<pb n="27" facs="tcp:93106:15"/>publiſh'd in Defence of it. And indeed, the ſtricteſt <hi>Diſ<g ref="char:EOLhyphen"/>cipline,</hi> and Eccleſiaſtick <hi>Cenſures,</hi> (though a proper Method of re<g ref="char:EOLhyphen"/>preſſing Vice) can't attain their End, while the Apoſtolick Order is neglected; and thoſe who <hi>keep the Law,</hi>
+                  <note place="margin">Xenoph. Lac. Pol. C. <hi>9.</hi>
+                  </note> extend their Friendſhip to ſuch as openly <hi>forſake</hi> it. A judicious Writer has related a<g ref="char:EOLhyphen"/>mong the Cauſes, which made the <hi>Lacedemonians</hi> ſo eminent for their Courage in War: That (contrary to the uſage of other Nations) in that City, every body was aſham'd to admit a Coward into the ſame Lodgings, or ſo much as permit him to bear a part with them at their Games and Exerciſes. There is is no Law that prohibits civil Commerce, and negotiating with openly Vitious Perſons; but we can't contend with them, if our Friendſhip embraceth their Per<g ref="char:EOLhyphen"/>ſons,
+<pb n="28" facs="tcp:93106:16"/>which they (and others) will interpret a favouring of their Crimes; which alſo ſpread their contagion, where a Paſſage is o<g ref="char:EOLhyphen"/>pened by Familiar Converſe. This Conſideration induced a celebrated <hi>Pagan</hi> Law-giver,<note place="margin">Diodor. S. Lib. <hi>12.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>(Cha<g ref="char:EOLhyphen"/>rondas)</hi> to enact a ſe<g ref="char:EOLhyphen"/>vere Law againſt <hi>Conver<g ref="char:EOLhyphen"/>ſing with bad Men, for</hi> which, the guilty were to be En<g ref="char:EOLhyphen"/>dited and Puniſh'd: We may fear, ſuch <hi>Pagans</hi> will riſe up in the Judgment againſt many profeſſing Chriſtians, and condemn thoſe who practice not this Method of repro<g ref="char:EOLhyphen"/>ving the works of Darkneſs.</item>
+               <item>V. Another Inſtance of contend<g ref="char:EOLhyphen"/>ing with wicked Men, is the aſſiſt<g ref="char:EOLhyphen"/>ing of thoſe, whoſe Office obligeth to the repreſſing of wickedneſs. The ſingle Eye of a <hi>Ruler</hi> can't ſcatter this threatning Evil, if he be not aſſiſted by the Eyes, and
+<pb n="29" facs="tcp:93106:16"/>Hands, and Tongues of others. I know the Name of a Delator or <hi>Informer</hi> is become odious; but (as might be eaſily evinc'd, if it had not been already done) this infa<g ref="char:EOLhyphen"/>mous Title no ways belongs to thoſe, who only witneſs concern<g ref="char:EOLhyphen"/>ing a Criminal Act, which ought to be diſcover'd and puniſht. In ſuch Caſes, Silence and Conceal<g ref="char:EOLhyphen"/>ment make us Confederates with wicked Men, and partakers with their Sins. Surely, none can fix an opprobrious Character on the Excellent <hi>Joſeph,</hi> of whom 'tis re<g ref="char:EOLhyphen"/>lated, <hi>Gen.</hi> 37.2. That <hi>he brought to his Father, the Evil report of his Brethren,</hi> who unjuſtly hated him, while he exerciſed a real Charity to them, as well as diſcharg'd a Duty he owed to his Parent. None has charg'd the Renown<g ref="char:EOLhyphen"/>ed <hi>Chryſoſtom,</hi>
+                  <note place="margin">Tom. <hi>6.</hi> Hom. <hi>44.</hi>
+                  </note> with being an <hi>Informer;</hi> though in a Sermon, wherein he vehemently
+<pb n="30" facs="tcp:93106:17"/>reproveth the Sin of Swearing: He tells his Hearers, that after the parting of the Aſſembly, he would largely Diſcourſe every one, that he might know who had, and who had not reform'd that Fault; And if I find (ſaith he) any who have not reform'd, I will make them known to thoſe who have, to the end, that all the Latter may re<g ref="char:EOLhyphen"/>prove, and correct them who re<g ref="char:EOLhyphen"/>main guilty of this Vice. To publiſh a ſecret Fault, may on ſome occaſions, violate the Laws of Cha<g ref="char:EOLhyphen"/>rity and Humanity: but how can it be blame-worthy, to witneſs a<g ref="char:EOLhyphen"/>gainſt thoſe, who declare their own Sin, and hide not their own Shame?</item>
+               <item>VI. The laſt Inſtance of this contending with Wicked Men, is earneſt Prayer, and Supplication to God, to obtain ſucceſs to the Me<g ref="char:EOLhyphen"/>thods which have been mention<g ref="char:EOLhyphen"/>ed;
+<pb n="31" facs="tcp:93106:17"/>and the Divine Influence, which can effectually repreſs all kinds of Wickedneſs. The Divine Almighty Arm alone, can deſtroy this many headed <hi>Hydra,</hi> which often deſpiſeth all Human Attempts. <hi>David,</hi> though he liv'd in a State that was provided with the beſt Laws againſt Sin, yet addreſſeth to God in a moſt earneſt Petition: <hi>O bring the wickedneſs of the Wicked to an end,</hi> Pſal. 7.9.</item>
+            </list>
+            <p>The <hi>Jewiſh</hi> Writers (whoſe words are ſet down by a Learned Writer of our own) tell us.<note place="margin">Dr. <hi>Outram de Sacr.</hi> L. 1. C. 8.</note>That in the ſhort Pray<g ref="char:EOLhyphen"/>er uſed by the High Prieſt, on the Day of Expiation, this was always one Petition. <hi>Let not the Prayer of them who break the Law, be gathered before Thee, i. e.</hi> Let not God, by granting the Requeſts of Wicked Men, put it into their Power, to act their Evil Deſigns.
+<pb n="32" facs="tcp:93106:18"/>When we pray, <hi>Let thy Kingdom come,</hi> this includes the effectual re<g ref="char:EOLhyphen"/>preſſing of Wickedneſs, which moſt directly oppoſeth the Kingdom of God, that is, a State of Purity and Righteouſneſs.</p>
+            <p>It only remains, that the deſcri<g ref="char:EOLhyphen"/>bed <hi>Duty</hi> ſhould be preſs'd, and re<g ref="char:EOLhyphen"/>commended by a few Conſide<g ref="char:EOLhyphen"/>rations.</p>
+            <p n="1">1. In contending with Wicked Men, you imitate the beſt <hi>Exam<g ref="char:EOLhyphen"/>ples.</hi> This Practice is the moſt ho<g ref="char:EOLhyphen"/>norable <hi>Mode,</hi> which makes you reſemble the worthieſt Inhabitants of Earth, yea and of Heaven too. This was one diſtinguiſhing mark of the Prophets and Apoſtles, whoſe Memory is bleſſed: They willing<g ref="char:EOLhyphen"/>ly endur'd all the Hatred and Scorn of a wicked World, while they contended with it. Who would not prefer a likeneſs to ſuch He<g ref="char:EOLhyphen"/>roes,
+<pb n="33" facs="tcp:93106:18"/>above any other empty Ti<g ref="char:EOLhyphen"/>tles of Honour, with which, other Enterprizes are rewarded? Yea, this Practice is an imitation of the Angels in Heaven, who conſtant<g ref="char:EOLhyphen"/>ly attend on this thing, and moſt readily obey all the Divine Or<g ref="char:EOLhyphen"/>ders, for the oppoſing of Sin, and ſtopping the progreſs of it. The Angel of the Lord miniſtred to the Juſtice of God, in puniſhing the oppreſſion of <hi>Pharoah,</hi> the Pride of <hi>David,</hi> the Blaſphemy of <hi>Sena<g ref="char:EOLhyphen"/>cherib,</hi> and <hi>Herod.</hi> Laſtly, The Bleſſed God himſelf ſets us this Pat<g ref="char:EOLhyphen"/>tern: Who can read the Word, or view the Works of God, without diſcerning the Conteſt, in which he is engaged againſt the workers of Iniquity. We of this City and Nation, ought not to forget the terrible Inſtances of this Divine Procedure: He has contended a<g ref="char:EOLhyphen"/>gainſt us, by a waſting Plague, a devouring Sword, and a conſu<g ref="char:EOLhyphen"/>ming
+<pb n="34" facs="tcp:93106:19"/>Fire. There are <hi>Caſes</hi> of a dubious Nature, in which 'tis poſ<g ref="char:EOLhyphen"/>ſible, in oppoſing others, we may through miſtake, be guilty of con<g ref="char:EOLhyphen"/>tending againſt God: The wiſe <hi>Ga<g ref="char:EOLhyphen"/>maliel</hi> judg'd it unſafe to uſe any Violence againſt the firſt Teachers of the Chriſtian Religion, (which himſelf did not profeſs) becauſe there was ground to ſuſpect, leſt thoſe who oppoſed it, ſhould be <hi>found even to fight againſt God. Act.</hi> 5.39. But in our contending with wicked Men, we are ſafe from ſuch a danger, We fight under the Banner of Heaven, and are <hi>imita<g ref="char:EOLhyphen"/>tors</hi> of God himſelf.</p>
+            <p n="2">2. Herein, the moſt eminent Love to our Country, is acted and ſig<g ref="char:EOLhyphen"/>naliz'd. This noble Diſpoſition has prevail'd againſt the ſtrongeſt Objections: When the Roman <hi>Bru<g ref="char:EOLhyphen"/>tus</hi> Condemn'd his own Sons to an infamous Death, and was a
+<pb n="35" facs="tcp:93106:19"/>Spectator of the Execution; this Act is reſolv'd into this Principle. <hi>Vicit amor patriae.</hi> Wicked Men are certainly Enemies to the Pub<g ref="char:EOLhyphen"/>lick Good, by provoking God to withdraw his Protection, which is more neceſſary to our common In<g ref="char:EOLhyphen"/>tereſt, than either the Weapons, or Sinew of War. When the <hi>Iſra<g ref="char:EOLhyphen"/>elites</hi> heard, that two whole Tribes and a half, had done ſomething, which only appear'd a Rebelling againſt the Lord: 'tis related that the <hi>whole Congregation of the Chil<g ref="char:EOLhyphen"/>dren of</hi> Iſrael <hi>gathered themſelves to<g ref="char:EOLhyphen"/>gether, to go up to War againſt thoſe</hi> whom they ſuſpected guilty; upon which ſuppoſition, they conclu<g ref="char:EOLhyphen"/>ded, that <hi>the Lord would be wroth with the whole Congregation of</hi> Iſrael. Joſh. 22.18. Which Concluſion, they prove by an unqueſtionable Inſtance, <hi>viz. Achan,</hi> who <hi>com<g ref="char:EOLhyphen"/>mitted a Treſpaſs in the accurſed thing, and Wrath fell on all the
+<pb n="36" facs="tcp:93106:20"/>Congregation of</hi> Iſrael, <hi>and that Man periſht not alone in his Iniquity. verſe</hi> 26. If ungodly Perſons did hurt only themſelves, there might be ſome pretext for indulging and conniving at them; but the caſe is otherwiſe, they do a real harm to the <hi>Community,</hi> of which they are Members. <hi>Solomon</hi> (a proper Judge of this Matter, his Regal Office aſſiſting him to obſerve the dangers of the State) hath aſſerted, That <hi>ſcornful, i. e.</hi> ungodly <hi>Men bring a City into a Snare, Prov.</hi> 29.8. If any ſhould cenſure the <hi>Accord,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> in this Reforming De<g ref="char:EOLhyphen"/>ſign, of thoſe, whoſe Sentiments are not quite the ſame in ſome leſſer things, they forget the plain Ob<g ref="char:EOLhyphen"/>ligation of a joint oppoſing a com<g ref="char:EOLhyphen"/>mon Enemy. Wicked Men are not Adverſaries to one Part, or Order of Chriſtians (of diſtinct deno<g ref="char:EOLhyphen"/>minations;) They ſtrike at the Cauſe of Religion in general,
+<pb n="37" facs="tcp:93106:20"/>and if it lay in their power, would not leave a Chriſtian Church in Being. Our common Rule obligeth us to a<g ref="char:EOLhyphen"/>gree in defending the Cauſe of Religion, againſt all who ſeek to ruine it: and in proſecuting this Deſign, we exerciſe a real Kindneſs to our Country, and contribute to the Welfare and In<g ref="char:EOLhyphen"/>tereſt of the whole Nation. The Roman Hiſtory relates, that the Variance of their two Orders, <hi>Pa<g ref="char:EOLhyphen"/>trician</hi> and <hi>Plebeian,</hi> did ſome<g ref="char:EOLhyphen"/>times endanger that State; but when their Conteſts were the higheſt, the appearing of a Common Ene<g ref="char:EOLhyphen"/>my did unite them; the flaming War that threatned the whole Bo<g ref="char:EOLhyphen"/>dy, did melt the divided pieces into one.</p>
+            <p n="3">3. There is encouraging Hope of Succeſs in this contending with wicked Men. <hi>Sin,</hi> is in its own Nature, a weak and feeble thing,
+<pb n="38" facs="tcp:93106:21"/>like Darkneſs, which flies at the approach of Light. Indeed, the Number, and boldneſs of Evil Men, joined with the faint en<g ref="char:EOLhyphen"/>deavours us'd againſt them, give an appearance of Strength to their Cauſe, but it can't ſtand its ground, when it meets a vigorous Oppoſition. How can that be ſtrong which is ſupported by Lies and Falſhood, and hath the Wiſdom and Power of God engaged againſt it? This City has already ſeen the good effect of thoſe Methods, which have been us'd in Executing the Laws made againſt Prophaneneſs and Immora<g ref="char:EOLhyphen"/>lity. The Vices of <hi>Swearing, <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>cleaneſs,</hi> and <hi>Violation of the Lords Day,</hi> don't now ſhew themſelves ſo openly as formerly they did. And though ſome begin to hope, that they ſhall be indulged in ſuch Evil Practiſes, we truſt the Care and Piety of our Honour<g ref="char:EOLhyphen"/>able Magiſtrates, will fruſtrate
+<pb n="39" facs="tcp:93106:21"/>this impudent Expectation: And that the Example ſet in this great City, will influence other places of the Nation, to undertake a Deſign of Repreſſing Vices, and Impieties, which hath the praying Wiſhes of all Good Men, and the Promiſe of Divine Aſſiſtance, which can overcome all Oppoſition made againſt it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:93106:22"/>
+            <head>
+               <hi>BOOKS Printed for</hi> Thomas Parkhurſt <hi>at the</hi> Bible <hi>and</hi> Three Crowns, <hi>near</hi> Mercer's Chappel <hi>in</hi> Cheapſide.</head>
+            <list>
+               <item>THE Life and Death of Mr. <hi>Philip Henry,</hi> late Miniſter of <hi>Whitchurch</hi> in <hi>Shropſhire.</hi> The Second Edition.</item>
+               <item>Four Sermons Preach'd to the Soci<g ref="char:EOLhyphen"/>eties, for the Reformation of Man<g ref="char:EOLhyphen"/>ners, <hi>viz.</hi> by Mr. <hi>How,</hi> Mr. <hi>Burgeſs,</hi> Mr. <hi>Sylveſter,</hi> Mr. <hi>Spademan.</hi>
+               </item>
+               <item>Of Remembrance and Imitation of Deceaſed Holy Rulers. A Sermon Preach'd at <hi>Roterdam</hi> the Day of Her Majeſties Funeral, by <hi>John Spademan.</hi>
+               </item>
+               <item>A Sermon Preach'd on the late Day of Thankſgiving, <hi>Decemb.</hi> 2. 1697. To which is Prefix'd Dr. <hi>Bates</hi>'s Congratula<g ref="char:EOLhyphen"/>tory Speech to the King.</item>
+               <item>A Funeral Sermon on the Death of that Pious Gentlewoman Mrs. <hi>Judith Hammond,</hi> late Wife of the Reverend Mr. <hi>George Hammond,</hi> Miniſter of the Goſpel in <hi>London.</hi>
+               </item>
+               <pb facs="tcp:93106:22"/>
+               <item>Of Thoughtfulneſs for the Morrow. With an Appendix concerning the im<g ref="char:EOLhyphen"/>moderate Deſire of foreknowing Things to come.</item>
+               <item>Of Charity in Reference to other Mens Sins.</item>
+               <item>A Sermon directing what we are to do after a ſtrict Enquiry whether or no we truly love God.</item>
+               <item>A Calm and Sober Enquiry concern<g ref="char:EOLhyphen"/>ing the Poſſibility of a Trinity in the Godhead.</item>
+               <item>The Carnality of Religious Conten<g ref="char:EOLhyphen"/>tion. In two Sermons Preach'd at the <hi>Merchants Lecture</hi> in <hi>Broadſtreet.</hi>
+               </item>
+               <item>The Redeemer's Tears wept over loſt Souls, in a Treatiſe on <hi>Luke</hi> 19.41, 42. With an Appendix, wherein ſomewhat is occaſionally Diſcourſed concerning the Sin againſt the Holy Ghoſt, and how God is ſaid to Will the Salvation of them that periſh.</item>
+               <item>A Funeral Sermon for Mrs. <hi>Ester Sampſon,</hi> the late Wife of Mr. <hi>Henry Sampſon,</hi> Doctor of Phyſick, who Died <hi>Novem.</hi> 24. 1689.</item>
+               <item>A Letter to a Friend concerning a Poſtſcript to the Defence of Dr. <hi>Sherlock</hi>'s
+<pb facs="tcp:93106:23"/>Notion of the Trinity in Unity, rela<g ref="char:EOLhyphen"/>ting to the Calm and Sober Enquiry up<g ref="char:EOLhyphen"/>on the ſame Subject.</item>
+               <item>A View of that Part of the late Con<g ref="char:EOLhyphen"/>ſiderations Addreſt to <hi>H. H.</hi> about the Trinity. Which concerns the Sober En<g ref="char:EOLhyphen"/>quiry on that Subject. All theſe Eleven by Mr. <hi>John Howe.</hi>
+               </item>
+               <item>Navigation ſpiritualiz'd, or a new Compaſs for Seamen, conſiſting of Thir<g ref="char:EOLhyphen"/>ty Two Points of pleaſant Obſervations, profitable Applications, ſerious Reflecti<g ref="char:EOLhyphen"/>ons, all concluded with ſo many ſpiri<g ref="char:EOLhyphen"/>tual Poems, <hi>&amp;c.</hi>
+               </item>
+               <item>Two Treatiſes, the firſt of Fear, the ſecond, the Righteous Mans Refuge in the Evil Day.</item>
+               <item>A Saint indeed, the great Work of a Chriſtian.</item>
+               <item>A Touchſtone of Sincerity, or Signs of Grace, and Symptoms of Hypocri<g ref="char:EOLhyphen"/>ſie, being the ſecond Part of the Saint indeed.</item>
+               <item>A Token for Mourners, or boundaries for Sorrow for the Death of Friends.</item>
+               <item>Husbandry ſpiritualiz'd: or the Hea<g ref="char:EOLhyphen"/>venly uſe of Earthly Things.</item>
+               <pb facs="tcp:93106:23"/>
+               <item>The Divine Conduct, or Myſtery of Providence, its Being and Efficacy aſſer<g ref="char:EOLhyphen"/>ted and vindicated: All the Methods of Providence in our Courſe of Life open'd, with Directions how to apply and im<g ref="char:EOLhyphen"/>prove them. All theſe Seven by Mr. <hi>John Flavel.</hi>
+               </item>
+               <item>A Diſcourſe againſt Tranſubſtanti<g ref="char:EOLhyphen"/>ation.</item>
+               <item>Thirteen Sermons on ſeveral Texts.</item>
+               <item>Defenſative Armour againſt four of Satans fiery Darts, <hi>viz.</hi> Temptations to Atheiſtical and Blaſphemous Impreſſions and Thoughts, Self-Murther, Deſpair and Preſumption.</item>
+               <item>A Reaſonable Account, why ſome pi<g ref="char:EOLhyphen"/>ous Non-conforming Miniſters in <hi>England,</hi> judge it ſinful for them to perform their Miniſterial Acts, in publick ſolemn Prayer, by the preſcribed Forms of others.</item>
+               <item>A Supplement to the Reaſonable Ac<g ref="char:EOLhyphen"/>count.</item>
+               <item>The Vindication of Liturgies, Pub<g ref="char:EOLhyphen"/>liſhed by Dr. <hi>Falkner,</hi> proved no Vin<g ref="char:EOLhyphen"/>dication.</item>
+               <item>The Weavers Pocket Book, or Wea<g ref="char:EOLhyphen"/>ving ſpiritualiz'd, in a Diſcourſe, where<g ref="char:EOLhyphen"/>in
+<pb facs="tcp:93106:24"/>Men in that Occupation, are inſtruct<g ref="char:EOLhyphen"/>ed how to raiſe Heavenly Meditations, from the ſeveral Parts of their work.</item>
+               <item>A Sermon upon the Happineſs of Brethren dwelling together in Unity.</item>
+               <item>The improveableneſs of Water-Baptiſm.</item>
+               <item>An Exercitation on that Caſe of Con<g ref="char:EOLhyphen"/>ſcience, <hi>viz.</hi> Whether it be lawful for a Perſon to Act contrary to the Opi<g ref="char:EOLhyphen"/>nion of his own Conſcience formed from Arguments that appear to him probable, though not neceſſary and demonſtra<g ref="char:EOLhyphen"/>tive?</item>
+               <item>Intercourſes of Divine Love between Chriſt and the Church, or the particu<g ref="char:EOLhyphen"/>lar believing Soul, open'd and improv'd in ſeveral Lectures upon the firſt and ſe<g ref="char:EOLhyphen"/>cond Chapter of the <hi>Canticles,</hi> in Two Vol. All theſe Eleven by <hi>John Col<g ref="char:EOLhyphen"/>linges,</hi> D. D.</item>
+               <item>The Friendly Interpoſer between the Authors of thoſe Papers; the one called, <hi>A Report,</hi> the other call'd <hi>A Rebuke of that Report.</hi> In order to a Reconciliation, between the Presbyterians and Indepen<g ref="char:EOLhyphen"/>dants. By Mr. <hi>John Humphrey.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:93106:24"/>
+         </div>
+      </back>
+   </text>
+</TEI>
